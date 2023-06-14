@@ -1,4 +1,7 @@
 "use strict";
+
+
+// terst
 // test alert("Я и есть JavaScript!");
 
 
