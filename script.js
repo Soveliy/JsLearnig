@@ -1,5 +1,5 @@
 "use strict";
-// alert("Я и есть JavaScript!");
+// test alert("Я и есть JavaScript!");
 
 
 // // Переменные
